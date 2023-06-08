@@ -1,1 +1,1 @@
-# coursework_personal_blog
+# personal_blog
